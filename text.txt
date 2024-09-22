@@ -1,1 +1,3 @@
-"Name: Nazanin Tabrizizadeh\nEmail: ntabrizizadeh@myseneca.ca\nID: 124920224" 
+Name: Nazanin Tabrizizadeh
+Email: ntabrizizadeh@myseneca.ca
+ID: 124920224
